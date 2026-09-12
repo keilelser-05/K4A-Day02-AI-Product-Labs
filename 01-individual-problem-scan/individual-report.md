@@ -8,7 +8,7 @@
 - Mã học viên: 2A202602585
 - Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm 4, Trường Đại học FPT
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
-- Đọc README/lab specification, làm bài thực hành AI/LLM và nộp qua GitHub.
+  - Đọc README/lab specification, làm bài thực hành AI/LLM và nộp qua GitHub.
   - Ôn tập Machine Learning, Deep Learning, toán và Python qua ngân hàng câu hỏi.
 
   - Code Python, tạo virtual environment, chạy notebook/repository và xử lý lỗi môi trường.
