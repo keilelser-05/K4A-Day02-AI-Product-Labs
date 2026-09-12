@@ -17,7 +17,7 @@
 
 | # | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 |Lặp lại / Tốn thời gian | | | |
+| 1 |Tốn thời gian|Yêu cầu bài lab nằm rải ở nhiều file, người học phải đối chiếu để biết chính xác output, rubric và trình tự làm. |Học viên AI Thực Chiến |Lab Day 02 yêu cầu đọc ít nhất 3 tài liệu lõi: README.md, 01-worksheet.md, 02-deliverable-example.md. |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
