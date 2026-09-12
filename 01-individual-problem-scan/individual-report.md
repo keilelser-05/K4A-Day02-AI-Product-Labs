@@ -36,8 +36,8 @@
 
 **AI đã dùng ở Phase 1 (nếu có):**
 - Prompt đã hỏi: Dựa trên các thông tin bạn đã có dựa từ lịch sử trò chuyện với tôi, hãy liệt kế các vấn đề trong việc mà tôi là dựa trên mẫu sau dựa trên bối cảnh lần làm dự án trước của tôi(Healthbot)
-- Ý dùng được:
-- Ý bỏ vì không phải pain thật:
+- Ý dùng được: Yêu cầu bài lab nằm rải ở nhiều file, người học phải đối chiếu để biết chính xác output, rubric và trình tự làm, Viết đoạn giới thiệu tuyển thành viên bị giới hạn ký tự nên phải chỉnh nhiều vòng mà vẫn giữ đủ thông tin quan trọng, Trong dự án nhóm, nếu owner code chính phải gánh phần lớn implementation thì tiến độ và chất lượng review bị rủi ro, Sau khi hoàn thành lab/project, việc biến notes rời rạc thành artifact nộp có cấu trúc vẫn cần nhiều bước kiểm tra chéo, Khi đọc rubric/readme dài, người học dễ tối ưu “cho đủ form” nhưng bỏ sót logic problem → workflow → metric → boundary
+- Ý bỏ vì không phải pain thật: Khi chạy repo Python trên Windows, lệnh cài/activate môi trường giữa Linux và PowerShell dễ gây lỗi và làm gián đoạn lab, Ngân hàng ôn thi có nhiều câu gần nghĩa/trùng ý, cần sàng lọc câu khác nhau trước khi chia theo phân môn, Lịch sử làm câu hỏi có nhiều lần sai nhưng việc tự nhớ câu nào cần ưu tiên ôn lại không bền vững, Khi ôn từng câu, người học phải lặp lại quy trình: xác định mảng kiến thức → giải → dạy nền → lỗi dễ nhầm → biến thể → ví dụ
 
 **Self-check Phase 1:**
 - [ ] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
