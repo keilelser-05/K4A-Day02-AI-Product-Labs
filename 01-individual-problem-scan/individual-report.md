@@ -17,7 +17,7 @@
 
 | # | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 |Lặp lại / Tốn thời gian | | | |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
