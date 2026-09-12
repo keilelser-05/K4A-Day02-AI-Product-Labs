@@ -9,6 +9,7 @@
 - Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm 4, Trường Đại học FPT
 - Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
   - Đọc README/lab specification, làm bài thực hành AI/LLM và nộp qua GitHub.
+    
   - Ôn tập Machine Learning, Deep Learning, toán và Python qua ngân hàng câu hỏi.
 
   - Code Python, tạo virtual environment, chạy notebook/repository và xử lý lỗi môi trường.
@@ -25,12 +26,11 @@
 
 | # | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 |Tốn thời gian / Quality|Dataset imbalance khiến lớp nhỏ khó đánh giá chắc chắn |Team model/evaluation |Smallest class chỉ có 15 test examples; weighted loss phải dùng để giảm ảnh hưởng imbalance |
-| 2 |AI có thể tốt hơn |Retrieval trực tiếp label→JSON minh bạch nhưng không truy xuất passage chi tiết hoặc nhiều nguồn liên quan |Người dùng; team content |Report nêu flat topic lookup không lấy được fine-grained facts ngoài 11 predefined topics |
-| 3 |Tốn thời gian / Data | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |  
+| 1 |Tốn thời gian|Yêu cầu bài lab nằm rải ở nhiều file, người học phải đối chiếu để biết chính xác output, rubric và trình tự làm. |Học viên AI Thực Chiến |Lab Day 02 yêu cầu đọc ít nhất 3 tài liệu lõi: README.md, 01-worksheet.md, 02-deliverable-example.md.|
+| 2 |Tốn thời gian |Viết đoạn giới thiệu tuyển thành viên bị giới hạn ký tự nên phải chỉnh nhiều vòng mà vẫn giữ đủ thông tin quan trọng. |Sinh viên tìm teammate |Report nêu flat topic lookup không lấy được fine-grained facts ngoài 11 predefined topics |
+| 3 |Tốn thời gian / Pain từ người khác |Trong dự án nhóm, nếu owner code chính phải gánh phần lớn implementation thì tiến độ và chất lượng review bị rủi ro. |Thành viên phụ trách code / cả nhóm | |
+| 4 |AI có thể tốt hơn | Sau khi hoàn thành lab/project, việc biến notes rời rạc thành artifact nộp có cấu trúc vẫn cần nhiều bước kiểm tra chéo. | Sinh viên AI / project team | Day 02 yêu cầu **3 phần nộp chính** và phần nhóm phải chứa convergence, validation, research, workflow, PS v0/v1, R/W/A, decision — nhiều điểm dễ thiếu nếu không có checklist. |
+| 5 |AI có thể tốt hơn | Khi đọc rubric/readme dài, người học dễ tối ưu “cho đủ form” nhưng bỏ sót logic problem → workflow → metric → boundary. | Học viên làm lab | Rubric Day 02 chia **60 điểm nhóm + 40 điểm cá nhân** và có nhiều dependency; chỉ điền form mà không nối logic sẽ mất điểm ở nhiều mục cùng lúc. |
 
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
