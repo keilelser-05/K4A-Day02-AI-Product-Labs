@@ -40,9 +40,9 @@
 - Ý bỏ vì không phải pain thật: Khi chạy repo Python trên Windows, lệnh cài/activate môi trường giữa Linux và PowerShell dễ gây lỗi và làm gián đoạn lab, Ngân hàng ôn thi có nhiều câu gần nghĩa/trùng ý, cần sàng lọc câu khác nhau trước khi chia theo phân môn, Lịch sử làm câu hỏi có nhiều lần sai nhưng việc tự nhớ câu nào cần ưu tiên ôn lại không bền vững, Khi ôn từng câu, người học phải lặp lại quy trình: xác định mảng kiến thức → giải → dạy nền → lỗi dễ nhầm → biến thể → ví dụ
 
 **Self-check Phase 1:**
-- [ ] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
-- [ ] Dùng ít nhất 3/4 lăng kính
-- [ ] Không có dòng chung chung kiểu "mất nhiều thời gian"
+- [x] Đủ 5+ dòng, mỗi dòng có actor + số đo cụ thể
+- [x] Dùng ít nhất 3/4 lăng kính
+- [x] Không có dòng chung chung kiểu "mất nhiều thời gian"
 
 ---
 
