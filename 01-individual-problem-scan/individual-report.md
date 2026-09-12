@@ -7,7 +7,16 @@
 - Họ và tên: Phùng Gia Khánh
 - Mã học viên: 2A202602585
 - Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm 4, Trường Đại học FPT
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem): Họp, hoàn thiện dự án, học thêm cải thiện kĩ năng
+- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+- Đọc README/lab specification, làm bài thực hành AI/LLM và nộp qua GitHub.
+
++ Ôn tập Machine Learning, Deep Learning, toán và Python qua ngân hàng câu hỏi.
+
++ Code Python, tạo virtual environment, chạy notebook/repository và xử lý lỗi môi trường.
+
++ Làm việc nhóm, chọn problem, viết mô tả dự án và chuẩn bị deliverable.
+
++ Dùng AI để phản biện, giải thích kiến thức và hỗ trợ cấu trúc artifact, sau đó tự kiểm lại.
 
 ---
 
@@ -17,21 +26,17 @@
 
 | # | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (số + bằng chứng) |
 |---|---|---|---|---|
-| 1 |Tốn thời gian|Yêu cầu bài lab nằm rải ở nhiều file, người học phải đối chiếu để biết chính xác output, rubric và trình tự làm. |Học viên AI Thực Chiến |Lab Day 02 yêu cầu đọc ít nhất 3 tài liệu lõi: README.md, 01-worksheet.md, 02-deliverable-example.md. |
-| 2 | | | | |
-| 3 | | | | |
+| 1 |Tốn thời gian / Quality|Dataset imbalance khiến lớp nhỏ khó đánh giá chắc chắn |Team model/evaluation |Smallest class chỉ có 15 test examples; weighted loss phải dùng để giảm ảnh hưởng imbalance |
+| 2 |AI có thể tốt hơn |Retrieval trực tiếp label→JSON minh bạch nhưng không truy xuất passage chi tiết hoặc nhiều nguồn liên quan |Người dùng; team content |Report nêu flat topic lookup không lấy được fine-grained facts ngoài 11 predefined topics |
+| 3 |Tốn thời gian / Data | | | |
 | 4 | | | | |
 | 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
+| 6 | | | | |  
 
 > Gợi ý tự soi: tuần trước mất nhiều thời gian nhất vào việc gì? Việc gì hay trì hoãn? Người khác hay hỏi lại câu gì? Workflow nào ai cũng biết là chậm?
 
 **AI đã dùng ở Phase 1 (nếu có):**
-- Prompt đã hỏi:
+- Prompt đã hỏi: Dựa trên các thông tin bạn đã có dựa từ lịch sử trò chuyện với tôi, hãy liệt kế các vấn đề trong việc mà tôi là dựa trên mẫu sau dựa trên bối cảnh lần làm dự án trước của tôi(Healthbot)
 - Ý dùng được:
 - Ý bỏ vì không phải pain thật:
 
