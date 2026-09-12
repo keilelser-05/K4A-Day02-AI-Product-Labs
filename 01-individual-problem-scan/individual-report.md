@@ -6,8 +6,8 @@
 
 - Họ và tên: Phùng Gia Khánh
 - Mã học viên: 2A202602585
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...):
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...): Sinh viên năm 4, Trường Đại học FPT
+- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem): Họp, hoàn thiện dự án, học thêm cải thiện kĩ năng
 
 ---
 
